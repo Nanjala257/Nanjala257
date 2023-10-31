@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nanjala
 - 👀 I’m interested in more coding experience
-- 🌱 I’m currently learning android application development
+- 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on more tasks related to my programming path
 - 📫 How to reach me nancienanjala@gmail.com
 
